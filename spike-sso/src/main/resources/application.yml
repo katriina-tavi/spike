@@ -1,0 +1,29 @@
+server:
+  port: 6060
+  servlet:
+    context-path: /sso
+spring:
+  profiles:
+    active: dev
+  application:
+    name: spike-sso
+  #=============
+  # jackson配置
+  #==============
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+    generator:
+      write_numbers_as_strings: true
+  #=============
+  # 文件大小设置
+  #=============
+  servlet:
+    multipart:
+      max-file-size: 50MB
+      max-request-size: 50MB
+mybatis-plus:
+  mapper-locations: classpath:mapper/**/*Mapper.xml
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    cache-enabled: false

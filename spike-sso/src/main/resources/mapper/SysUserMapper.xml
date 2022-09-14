@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="org.song.spike.sso.mapper.SysUserMapper">
+
+  <resultMap id="sysUserMap" type="org.song.spike.sso.entity.SysUser">
+    <result column="id" property="id" />
+    <result column="user_account" property="userAccount" />
+    <result column="user_name" property="userName" />
+    <result column="phone" property="phone" />
+    <result column="email" property="email" />
+    <result column="password" property="password" />
+    <result column="salt" property="salt" />
+    <result column="del_flag" property="delFlag" />
+    <result column="create_time" property="createTime" />
+    <result column="create_by" property="createBy" />
+    <result column="update_time" property="updateTime" />
+    <result column="update_by" property="updateBy" />
+    <result column="remark" property="remark" />
+  </resultMap>
+
+
+  <sql id="Base_Column_List">
+  id
+  ,user_account
+  ,user_name
+  ,phone
+  ,email
+  ,password
+  ,salt
+  ,del_flag
+  ,create_time
+  ,create_by
+  ,update_time
+  ,update_by
+  ,remark
+  </sql>
+
+
+</mapper>

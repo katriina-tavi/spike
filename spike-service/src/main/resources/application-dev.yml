@@ -1,0 +1,35 @@
+spring:
+  #===========
+  # 数据源配置
+  #===========
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: 123456
+    url: jdbc:mysql://127.0.0.1:3306/spike_service?autoReconnect=true&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF8&useSSL=false&zeroDateTimeBehavior=convertToNull&serverTimezone=Asia/Shanghai
+    type: com.zaxxer.hikari.HikariDataSource
+    hikari:
+      minimum-idle: 10
+      connection-timeout: 2000
+      maximum-pool-size: 20
+      auto-commit: true
+      data-source-properties:
+        cachePrepStmts: true
+        prepStmtCacheSize: 250
+        prepStmtCacheSqlLimit: 2048
+        useServerPrepStmts: true
+      max-lifetime: 570000
+      idle-timeout: 500000
+xxl:
+  sso:
+    logout:
+      path: /app/logout
+    redis:
+      address: redis://:123456@127.0.0.1:6379/0
+      expire:
+        minute: 1440
+    server: http://localhost:6060/sso
+
+xxl-sso:
+  excluded:
+    paths: ''

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6139da11-735d-4b03-8774-df43c0f60b16" name="Default Changelist" comment="router改造" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2EThiBlvxlYNRgvwsshGCsSWyX7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/views" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6139da11-735d-4b03-8774-df43c0f60b16" name="Default Changelist" comment="" />
+      <created>1662625605855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662625605855</updated>
+      <workItem from="1662625606912" duration="2911000" />
+      <workItem from="1662692514895" duration="22378000" />
+      <workItem from="1663141223589" duration="494000" />
+    </task>
+    <task id="LOCAL-00001" summary="去掉多余菜单">
+      <created>1662702381676</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662702381676</updated>
+    </task>
+    <task id="LOCAL-00002" summary="登录拦截调整">
+      <created>1662707950255</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662707950256</updated>
+    </task>
+    <task id="LOCAL-00003" summary="登录后默认welcome页">
+      <created>1662712180918</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662712180918</updated>
+    </task>
+    <task id="LOCAL-00004" summary="增加sysmenu">
+      <created>1662717578410</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662717578410</updated>
+    </task>
+    <task id="LOCAL-00005" summary="router改造">
+      <created>1663049339241</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663049339241</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="去掉多余菜单" />
+    <MESSAGE value="登录拦截调整" />
+    <MESSAGE value="登录后默认welcome页" />
+    <MESSAGE value="增加sysmenu" />
+    <MESSAGE value="router改造" />
+    <option name="LAST_COMMIT_MESSAGE" value="router改造" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="332" y="33" key="CommitChangelistDialog2" timestamp="1663115563693">
+      <screen x="52" y="25" width="1388" height="875" />
+    </state>
+    <state x="332" y="33" key="CommitChangelistDialog2/52.25.1388.875@52.25.1388.875" timestamp="1663115563693" />
+    <state x="193" y="98" key="DiffContextDialog" timestamp="1663118915188">
+      <screen x="52" y="25" width="1388" height="875" />
+    </state>
+    <state x="193" y="98" key="DiffContextDialog/52.25.1388.875@52.25.1388.875" timestamp="1663118915188" />
+    <state x="530" y="169" key="RollbackChangesDialog" timestamp="1663122314856">
+      <screen x="52" y="25" width="1388" height="875" />
+    </state>
+    <state x="530" y="169" key="RollbackChangesDialog/52.25.1388.875@52.25.1388.875" timestamp="1663122314856" />
+    <state x="347" y="201" key="Vcs.Push.Dialog.v2" timestamp="1663049340585">
+      <screen x="52" y="25" width="1388" height="875" />
+    </state>
+    <state x="347" y="201" key="Vcs.Push.Dialog.v2/52.25.1388.875@52.25.1388.875" timestamp="1663049340585" />
+    <state x="548" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1663115576448">
+      <screen x="52" y="25" width="1388" height="875" />
+    </state>
+    <state x="548" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/52.25.1388.875@52.25.1388.875" timestamp="1663115576448" />
+    <state x="450" y="225" width="595" height="474" key="find.popup" timestamp="1663141293656">
+      <screen x="52" y="25" width="1388" height="875" />
+    </state>
+    <state x="450" y="225" width="595" height="474" key="find.popup/52.25.1388.875@52.25.1388.875" timestamp="1663141293656" />
+    <state x="412" y="214" width="670" height="676" key="search.everywhere.popup" timestamp="1663122932892">
+      <screen x="52" y="25" width="1388" height="875" />
+    </state>
+    <state x="412" y="214" width="670" height="676" key="search.everywhere.popup/52.25.1388.875@52.25.1388.875" timestamp="1663122932891" />
+  </component>
+</project>
